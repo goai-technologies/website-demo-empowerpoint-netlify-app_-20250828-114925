@@ -1,0 +1,35 @@
+{
+  "domain": "demo-empowerpoint.netlify.app",
+  "total_files_processed": 1,
+  "total_url_mappings": 1,
+  "broken_links": [
+    [
+      "index.html",
+      "images/empowerpoint-white.png"
+    ],
+    [
+      "index.html",
+      "images/Pawan-mehta.png"
+    ],
+    [
+      "index.html",
+      "images/Vikram-Jhunjhunwala.png"
+    ],
+    [
+      "index.html",
+      "images/Dr.-Rupsha-Roy-1.png"
+    ],
+    [
+      "index.html",
+      "images/Jubeen-S.png"
+    ],
+    [
+      "index.html",
+      "empowerpoint-favicon-2.png"
+    ]
+  ],
+  "external_links": [],
+  "url_to_file_mapping": {
+    "/": "index.html"
+  }
+}
